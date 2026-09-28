@@ -1,0 +1,1 @@
+int my_atoi(const char *str);
